@@ -1,0 +1,6 @@
+# For loop to print all odd numbers from 1 to 100
+
+for((i=1;i<100;i=i+2))
+do
+  echo "$i"
+done
