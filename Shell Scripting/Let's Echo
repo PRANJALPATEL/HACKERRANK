@@ -1,0 +1,2 @@
+# To print something we use 'echo' in shell.
+echo "HELLO"
