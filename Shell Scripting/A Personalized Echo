@@ -1,0 +1,5 @@
+# Used read to take input from user
+
+read name
+
+echo "Welcome $name"
