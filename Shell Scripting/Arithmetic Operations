@@ -1,0 +1,3 @@
+read num
+
+printf "%.3f" $(bc -l <<< $num)
