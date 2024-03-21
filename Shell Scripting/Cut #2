@@ -1,2 +1,1 @@
-# To print characters from 2 to 7
 cut -b 2,7
