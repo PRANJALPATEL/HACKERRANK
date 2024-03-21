@@ -1,0 +1,2 @@
+# Head is used to start from starting and -n is used to print lines.
+head -n 20
