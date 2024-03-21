@@ -1,0 +1,2 @@
+# -b is used for bytes
+cut -b 3
