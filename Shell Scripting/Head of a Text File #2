@@ -1,0 +1,2 @@
+# -c is used for characters.
+head -c 20
