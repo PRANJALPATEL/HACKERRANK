@@ -1,0 +1,2 @@
+# Tai; is used to print from last.
+tail -n 20
