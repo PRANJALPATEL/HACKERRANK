@@ -1,0 +1,2 @@
+# tr command is used to replace objects.
+tr "()" "[]"
