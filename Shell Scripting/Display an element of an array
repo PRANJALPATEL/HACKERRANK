@@ -1,0 +1,6 @@
+while read countries
+  do
+    myarr+=( $countries )
+  done
+    
+echo ${myarr[3]}
